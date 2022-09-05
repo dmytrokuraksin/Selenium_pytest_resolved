@@ -43,5 +43,3 @@ class TestAbs(unittest.TestCase):
 if __name__ == "__main__":
     unittest.main()
     time.sleep(10)
-
-
