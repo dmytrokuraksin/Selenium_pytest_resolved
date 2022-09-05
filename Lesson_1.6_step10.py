@@ -18,7 +18,7 @@ try:
     button.click()
 
     # Отправляем заполненную форму
-    button = browser.find_element(By.CSS_SELECTOR, "button.btn")
+    button = browser.find_element(By.CSS_SELECTOR, "buttonb.btn")
     button.click()
 
     # Проверяем, что смогли зарегистрироваться
